@@ -9,3 +9,11 @@ vfdsvvdsvvd
 vfdsvfdsv
  vcdv
  v
+
+ [dev]
+aws_access_key_id = AKIAIOSFODNN7DEVEXAMPLE
+aws_secret_access_key = devSecretAccessKeyExample
+
+[prod]
+aws_access_key_id = AKIAIOSFODNN7PRODEXAMPLE
+aws_secret_access_key = prodSecretAccessKeyExample
